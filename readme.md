@@ -4,6 +4,10 @@
 ```cmd
 git clone https://github.com/mandyshen97/vue-webpack.git
 ```
+安装依赖：
+```$xslt
+npm install
+```
 运行：
 ```cmd
 npm run dev
