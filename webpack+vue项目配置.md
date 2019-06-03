@@ -247,8 +247,7 @@ npm run build
 ```
 
 此时项目的目录结构如下：
-
-![1559498183059](C:\Users\10992\Desktop\projectNotes\webpack+vue搭建todo项目\media\目录结构1.png)
+![](./src/assets/images/目录结构1.png)
 
 ## 配置`webpack-dev-server`
 
